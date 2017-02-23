@@ -1,6 +1,6 @@
 
 this is test file for jenkins test
-E=mc2ddd
+E=mc2
 
 456789000
 44
@@ -13,3 +13,4 @@ this is test file for jenkins test file
 
 
 sdad
+g
